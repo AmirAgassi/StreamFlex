@@ -20,7 +20,7 @@ StreamFlex is a powerful Python-based automation tool designed for content creat
 ## Setup and Usage
 
 1. Install `ffmpeg` on your system.
-2. Place your video file in the same directory as StreamFlex and name it `Videoee.mp4` (or update the script with your video file's name).
+2. Place your video file in the same directory as StreamFlex and name it `Video.mp4` (or update the script with your video file's name).
 3. Add your stream keys to `stream_keys.txt`, one per line.
 4. Run the script. It will pre-render your video and start streaming based on the configured keys.
 
